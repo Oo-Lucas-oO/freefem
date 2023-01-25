@@ -1,1 +1,1 @@
-some simple little programme using freefem to solve ingenieer problem.
+some simple little programme using freefem solve ingenieer problem.
